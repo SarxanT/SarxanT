@@ -6,8 +6,8 @@
   <p>
     <b>Vilnius, Lithuania</b> &nbsp; · &nbsp;
     <a href="https://github.com/SarxanT?tab=repositories">Explore projects</a> &nbsp; · &nbsp;
-    <a href="#selected-projects">Selected work</a> &nbsp; · &nbsp;
-    <a href="#background">Background</a>
+    <a href="#-selected-projects">Selected work</a> &nbsp; · &nbsp;
+    <a href="#-background">Background</a>
   </p>
 </div>
 
