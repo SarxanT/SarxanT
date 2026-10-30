@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sarkhan Tanverdiyev | Building intelligence into connected systems</title>
+  <desc id="desc">Elegant dark future-styled GitHub banner, with champagne ST monogram, violet-blue holographic orbits, and the name Sarkhan Tanverdiyev.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050914"/>
+      <stop offset=".5" stop-color="#10152B"/>
+      <stop offset="1" stop-color="#050A16"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D2A76E"/>
+      <stop offset=".3" stop-color="#B69DE9"/>
+      <stop offset=".7" stop-color="#69CDFF"/>
+      <stop offset="1" stop-color="#7770EB"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF2D3"/>
+      <stop offset=".27" stop-color="#D7B784"/>
+      <stop offset=".52" stop-color="#F3D8AA"/>
+      <stop offset=".72" stop-color="#AA95C4"/>
+      <stop offset="1" stop-color="#F9E9C6"/>
+    </linearGradient>
+    <linearGradient id="holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#86F2FF"/>
+      <stop offset=".47" stop-color="#9B8CF4"/>
+      <stop offset="1" stop-color="#E8B7FF"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D2A76E" stop-opacity=".6"/>
+      <stop offset=".48" stop-color="#8284EE" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#6CCFFF" stop-opacity=".9"/>
+    </linearGradient>
+    <radialGradient id="rightGlow" cx="52%" cy="50%" r="55%">
+      <stop offset="0" stop-color="#4C51BD" stop-opacity=".37"/>
+      <stop offset=".48" stop-color="#4E2D87" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#34338B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="leftGlow">
+      <stop offset="0" stop-color="#AB7BA6" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#AB7BA6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planet">
+      <stop offset="0" stop-color="#5D91C5" stop-opacity=".88"/>
+      <stop offset=".35" stop-color="#333E8F" stop-opacity=".9"/>
+      <stop offset=".8" stop-color="#151A3C"/>
+      <stop offset="1" stop-color="#080C21"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#9CA7E9" stroke-opacity=".056" stroke-width="1"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="frame"><rect x="0" y="0" width="1280" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <ellipse cx="1110" cy="186" rx="365" ry="290" fill="url(#rightGlow)"/>
+    <ellipse cx="196" cy="200" rx="280" ry="290" fill="url(#leftGlow)"/>
+    <g><circle cx="247" cy="34" r="0.9" fill="#D8DEFF" opacity="0.22"/><circle cx="476" cy="93" r="0.45" fill="#D8DEFF" opacity="0.57"/><circle cx="80" cy="69" r="0.65" fill="#D8DEFF" opacity="0.22"/><circle cx="1053" cy="330" r="0.45" fill="#D8DEFF" opacity="0.57"/><circle cx="426" cy="388" r="1.2" fill="#D8DEFF" opacity="0.22"/><circle cx="938" cy="323" r="0.9" fill="#D8DEFF" opacity="0.16"/><circle cx="345" cy="379" r="1.2" fill="#D8DEFF" opacity="0.3"/><circle cx="228" cy="69" r="1.2" fill="#D8DEFF" opacity="0.16"/><circle cx="959" cy="296" r="0.45" fill="#D8DEFF" opacity="0.4"/><circle cx="112" cy="360" r="0.65" fill="#D8DEFF" opacity="0.3"/><circle cx="571" cy="349" r="0.65" fill="#D8DEFF" opacity="0.3"/><circle cx="1180" cy="389" r="0.9" fill="#D8DEFF" opacity="0.22"/><circle cx="1041" cy="224" r="1.2" fill="#D8DEFF" opacity="0.22"/><circle cx="561" cy="93" r="0.65" fill="#D8DEFF" opacity="0.57"/><circle cx="1122" cy="156" r="1.2" fill="#D8DEFF" opacity="0.57"/><circle cx="1062" cy="274" r="0.45" fill="#D8DEFF" opacity="0.16"/><circle cx="1240" cy="54" r="1.2" fill="#D8DEFF" opacity="0.4"/><circle cx="1239" cy="261" r="0.9" fill="#D8DEFF" opacity="0.57"/><circle cx="42" cy="370" r="0.45" fill="#D8DEFF" opacity="0.57"/><circle cx="565" cy="350" r="0.9" fill="#D8DEFF" opacity="0.16"/><circle cx="25" cy="391" r="0.9" fill="#D8DEFF" opacity="0.57"/><circle cx="1058" cy="333" r="0.65" fill="#D8DEFF" opacity="0.22"/><circle cx="1014" cy="57" r="0.65" fill="#D8DEFF" opacity="0.22"/><circle cx="992" cy="303" r="0.65" fill="#D8DEFF" opacity="0.3"/><circle cx="1099" cy="332" r="1.2" fill="#D8DEFF" opacity="0.22"/><circle cx="1123" cy="375" r="0.65" fill="#D8DEFF" opacity="0.3"/><circle cx="836" cy="365" r="0.9" fill="#D8DEFF" opacity="0.4"/><circle cx="1078" cy="253" r="0.45" fill="#D8DEFF" opacity="0.22"/><circle cx="479" cy="54" r="0.9" fill="#D8DEFF" opacity="0.16"/><circle cx="1223" cy="305" r="0.65" fill="#D8DEFF" opacity="0.57"/><circle cx="470" cy="25" r="0.45" fill="#D8DEFF" opacity="0.16"/><circle cx="487" cy="56" r="0.45" fill="#D8DEFF" opacity="0.3"/><circle cx="1013" cy="131" r="0.65" fill="#D8DEFF" opacity="0.57"/><circle cx="1199" cy="264" r="0.65" fill="#D8DEFF" opacity="0.4"/><circle cx="901" cy="203" r="1.2" fill="#D8DEFF" opacity="0.4"/><circle cx="975" cy="49" r="0.45" fill="#D8DEFF" opacity="0.16"/><circle cx="843" cy="394" r="0.9" fill="#D8DEFF" opacity="0.16"/><circle cx="937" cy="93" r="1.2" fill="#D8DEFF" opacity="0.22"/><circle cx="926" cy="303" r="0.45" fill="#D8DEFF" opacity="0.16"/><circle cx="1126" cy="29" r="0.45" fill="#D8DEFF" opacity="0.22"/><circle cx="795" cy="23" r="1.2" fill="#D8DEFF" opacity="0.3"/><circle cx="950" cy="168" r="1.2" fill="#D8DEFF" opacity="0.57"/><circle cx="1015" cy="101" r="0.65" fill="#D8DEFF" opacity="0.3"/><circle cx="464" cy="51" r="0.45" fill="#D8DEFF" opacity="0.3"/><circle cx="136" cy="47" r="1.2" fill="#D8DEFF" opacity="0.57"/><circle cx="1106" cy="102" r="0.45" fill="#D8DEFF" opacity="0.57"/><circle cx="158" cy="367" r="0.65" fill="#D8DEFF" opacity="0.4"/><circle cx="1236" cy="42" r="0.45" fill="#D8DEFF" opacity="0.4"/><circle cx="1214" cy="311" r="0.9" fill="#D8DEFF" opacity="0.3"/><circle cx="437" cy="364" r="0.9" fill="#D8DEFF" opacity="0.22"/><circle cx="955" cy="183" r="0.45" fill="#D8DEFF" opacity="0.16"/><circle cx="957" cy="340" r="0.45" fill="#D8DEFF" opacity="0.16"/><circle cx="1120" cy="131" r="0.9" fill="#D8DEFF" opacity="0.22"/><circle cx="733" cy="57" r="0.65" fill="#D8DEFF" opacity="0.3"/><circle cx="638" cy="335" r="0.45" fill="#D8DEFF" opacity="0.57"/><circle cx="632" cy="361" r="0.45" fill="#D8DEFF" opacity="0.22"/><circle cx="560" cy="81" r="0.45" fill="#D8DEFF" opacity="0.57"/><circle cx="337" cy="161" r="0.9" fill="#D8DEFF" opacity="0.57"/></g>
+    <!-- tech tracery -->
+    <g stroke="#9D9FF7" fill="none" stroke-width="1" opacity=".13">
+      <path d="M690 29h138l34 31h140"/><path d="M740 379h103l25-22h110"/>
+      <path d="M1143 24v63"/><path d="M1229 308v75"/>
+      <path d="M25 348h69"/><path d="M28 83h80"/>
+    </g>
+    <circle cx="862" cy="60" r="3.2" fill="#77CFFF" opacity=".8"/>
+    <!-- holographic planet/orbit right -->
+    <circle cx="1072" cy="209" r="150" fill="none" stroke="#9B9CEF" stroke-opacity=".14" stroke-width="1.4"/>
+    <circle cx="1072" cy="209" r="130" fill="none" stroke="#9E95E9" stroke-opacity=".22" stroke-width="1" stroke-dasharray="3 8"/>
+    <circle cx="1072" cy="209" r="103" fill="url(#planet)" opacity=".8"/>
+    <circle cx="1072" cy="209" r="103" fill="none" stroke="#A9A8FF" stroke-opacity=".28"/>
+    <path d="M1005 192 C1029 151 1072 139 1120 167" fill="none" stroke="#8ADBF2" opacity=".18" stroke-width="2"/>
+    <path d="M1011 255 C1065 289 1126 261 1136 219" fill="none" stroke="#BB9FF7" opacity=".22" stroke-width="2"/>
+    <ellipse cx="1072" cy="209" rx="211" ry="73" transform="rotate(-28 1072 209)" fill="none" stroke="#72D8FC" stroke-width="10" opacity=".13" filter="url(#soft)"/>
+    <ellipse cx="1072" cy="209" rx="211" ry="73" transform="rotate(-28 1072 209)" fill="none" stroke="url(#holo)" stroke-width="2.8" opacity=".9"/>
+    <ellipse cx="1072" cy="209" rx="180" ry="74" transform="rotate(36 1072 209)" fill="none" stroke="#BD91EF" stroke-width="1.6" stroke-opacity=".53"/>
+    <ellipse cx="1072" cy="209" rx="178" ry="132" transform="rotate(-37 1072 209)" fill="none" stroke="#80CCED" stroke-width="1" stroke-opacity=".24"/>
+    <circle cx="1240" cy="118" r="8" fill="#9EDBFF" opacity=".38" filter="url(#soft)"/>
+    <circle cx="1240" cy="118" r="4.5" fill="#C9F3FF"/>
+    <circle cx="907" cy="278" r="7" fill="#FFD59A" opacity=".3" filter="url(#soft)"/>
+    <circle cx="907" cy="278" r="4.5" fill="#E8C895"/>
+    <circle cx="1056" cy="80" r="3.5" fill="#A9A9FF"/>
+    <!-- monogram panel left -->
+    <rect x="62" y="70" width="219" height="267" rx="18" fill="#111629" fill-opacity=".62" stroke="#C9C6F5" stroke-opacity=".16" stroke-width="1.3"/>
+    <path d="M81 93h66" stroke="url(#edge)" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M259 312h-65" stroke="url(#edge)" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+    <circle cx="174" cy="207" r="82" stroke="#A8B4EB" stroke-opacity=".13" fill="none"/>
+    <ellipse cx="174" cy="207" rx="109" ry="30" transform="rotate(-25 174 207)" stroke="#AE93ED" stroke-opacity=".44" stroke-width="1.4" fill="none"/>
+    <text x="172" y="247" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="114" letter-spacing="-10" fill="url(#metal)">ST</text>
+    <text x="172" y="299" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9.6" letter-spacing="3.2" fill="#C6C3DC">IDENTITY / 01</text>
+    <!-- vertical spine -->
+    <path d="M310 100v220" stroke="url(#line)" stroke-width="1.5" opacity=".52"/>
+    <path d="M310 100v30" stroke="#E7C891" stroke-width="3"/>
+    <!-- hero typography -->
+    <text x="346" y="112" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="4.6" fill="#D2C3A4">COMPUTER ENGINEERING  /  VILNIUS</text>
+    <text x="342" y="184" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing=".5" fill="#F8F8FF">SARKHAN</text>
+    <text x="344" y="245" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="300" letter-spacing=".8" fill="#CFCDE6">TANVERDIYEV</text>
+    <path d="M347 272h340" stroke="url(#line)" stroke-width="1.6" opacity=".7"/>
+    <text x="347" y="305" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.5" fill="#8EDCF6">INTELLIGENCE  ×  CONNECTED SYSTEMS</text>
+    <!-- footer label -->
+    <text x="66" y="385" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="3" fill="#B2B4D5">FROM COMPLEX IDEAS TO USEFUL SYSTEMS.</text>
+    <text x="1166" y="385" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2.8" fill="#8D9BC6">PORTFOLIO  /  ST</text>
+    <path d="M0 416h1280" stroke="url(#edge)" stroke-width="4" opacity=".82"/>
+    <path d="M0 4h1280" stroke="url(#edge)" stroke-width="1" opacity=".33"/>
+  </g>
+</svg>
