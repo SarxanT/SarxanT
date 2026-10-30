@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="85" viewBox="0 0 1120 85" role="img" aria-label="Curiosity, systems, and the future">
+ <defs><linearGradient id="lg"><stop stop-color="#DDBB89"/><stop offset=".52" stop-color="#B297E5"/><stop offset="1" stop-color="#75DBF7"/></linearGradient></defs>
+ <path d="M20 43H393" stroke="url(#lg)" stroke-width="1.4" opacity=".5"/>
+ <path d="M727 43H1100" stroke="url(#lg)" stroke-width="1.4" opacity=".5"/>
+ <circle cx="393" cy="43" r="3" fill="#C8B1DA"/>
+ <circle cx="727" cy="43" r="3" fill="#84D6FA"/>
+ <text x="560" y="47" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.2" fill="#9A95A4">BUILD WITH CURIOSITY · DESIGN WITH PURPOSE</text>
+ </svg>
