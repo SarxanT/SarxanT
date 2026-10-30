@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm SarxanT 👋
 
-<!--
-**SarxanT/SarxanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical experience in software development, databases, connected devices, and automation. Here I document my learning projects, how they work, and what I improve over time.
 
-Here are some ideas to get you started:
+## Areas I'm exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** C++, Python, SQL
+- **IoT:** ESP32, sensors, Wokwi, ThingSpeak, MQTT
+- **Next:** API integrations, process automation, and AI-assisted software development
+
+## Projects
+
+| Repository | Description | Notes |
+| --- | --- | --- |
+| [C++ programming exercises](https://github.com/SarxanT/cpp-programming-exercises) | Six independent C++17 coursework and practice programs | Compiled and smoke-tested locally; publication in progress |
+| [SQL database exercises](https://github.com/SarxanT/sql-database-exercises) | Six Microsoft SQL Server / T-SQL learning scripts | Some examples require external practice databases; runtime not verified |
+
+## Learning roadmap
+
+I'm organizing earlier educational code into clear, documented examples. My next public projects will focus on IoT laboratory work, multi-node monitoring, and practical automation. I'll publish them after reviewing code quality, reproducibility, and secrets.
+
+---
+
+*This profile is a learning portfolio. Project descriptions and testing limitations are documented as accurately as possible.*
