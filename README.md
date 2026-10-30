@@ -1,4 +1,4 @@
-# Hi, I'm SarxanT 👋
+# Hi, I'm Sarkhan Tanverdiyev 👋
 
 I'm building practical experience in software development, databases, connected devices, and automation. Here I document my learning projects, how they work, and what I improve over time.
 
